@@ -1,0 +1,2 @@
+// src/hooks — Custom hooks de la experiencia
+// Aquí irán: useSession, useProgress, useTypewriter, useSound, etc.
